@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HaloMars.Asset">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAgACAAAAAgAAAAABAAAAAAAAAEABAAAAAEAAA=</HashCode>
+      <FileName>Assets\Asset.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HaloMars.GameObjectModel">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAEAAAAAAAAAAwEAAAAAAgAAAAAAAAABAAggAAAAA=</HashCode>
+      <FileName>Assets\GameObjectModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HaloMars.Program">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HaloMars.Shader">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAACAAACAAAAAAAAAAAAAAAAAEAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Shader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HaloMars.Window">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAQAAAAAACAAAAACAIAAAAAAAQAIA=</HashCode>
+      <FileName>Window.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HaloMars.Assets.Lander">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <NestedTypes>
+      <Class Name="HaloMars.Assets.Lander.PID" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Lander.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAICAAAIASAAgAAABEBAAAAAAgAAIABAAAQAACQA=</HashCode>
+      <FileName>Assets\Lander.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HaloMars.Assets.LanderScene">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Assets\LanderScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HaloMars.Assets.TexturedAsset">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEgAAAACAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAE=</HashCode>
+      <FileName>Assets\TexturedAsset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dear_ImGui_Sample.ImGuiController" BaseTypeListCollapsed="true">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICwAAAAAAKCIACAAACAAECAogDIAQgAIARAQAAAAAQA=</HashCode>
+      <FileName>ImGui\ImGuiController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dear_ImGui_Sample.Shader">
+    <Position X="11.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAEQAABCAAAAAAAAQACAQAAAAAAAAQAAAEAAAAAIA=</HashCode>
+      <FileName>ImGui\Shader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dear_ImGui_Sample.Texture" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABIABCAAAAAAAAAAAEQAAAAgDAgAARgAAAIAAAg=</HashCode>
+      <FileName>ImGui\Texture.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="Dear_ImGui_Sample.Util">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAABAIgAAEAAAAAAAAACAAAAACBAAQAAAAAgAAA=</HashCode>
+      <FileName>ImGui\Util.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HaloMars.Properties.Resources">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HaloMars.Properties.Settings">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="HaloMars.SolidVertex">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIgAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Assets\Vertex.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="HaloMars.TexturedVertex">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAIAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Assets\Vertex.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
